@@ -1,6 +1,6 @@
 # RestfulApiWebApp
 Full Stack Development – Creating a REST based application
- -Viswanathan Appakkudal Ramani, Priti Sherekar
+ -Priti Sherekar, Viswanathan Appakkudal Ramani
 
 This project involves developing three main parts of modern Web Development –Model, View, and Control. We made a full stack application comprising of:
 •	Rest APIs created using spring boot. 4 API’s that serve getting allUsersData, specificUserData, specificUserAllOrdersData, specificUserSpecificOrderData
